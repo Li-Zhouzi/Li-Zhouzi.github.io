@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Zhouzi Li
+lizz19@mails.tsinghua.edu.cn
 
-You can use the [editor on GitHub](https://github.com/Li-Zhouzi/Li-Zhouzi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+(+86)15821527286 / (+1) 4126944750
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Profile
 
-### Markdown
+Hi I'm Zhouzi Li, an undergraduate student in Yao class, Tsinghua University. I has 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ Interests in machine learning theory and online algorithms.
++ Solid mathematical skills, manage to conduct basic theoretical inductions.
++ 1 year’s research experience in deep learning theory, familiar with coding languages python, pytorch or C++.
++ Over 10 years experience of leadership, comfortable with communication.
+  
+### Education
+Institute for Interdisciplinary Information Science (IIIS, Yao Class established by Andrew Yao), Tsinghua University, Beijing
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Li-Zhouzi/Li-Zhouzi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
