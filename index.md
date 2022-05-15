@@ -5,7 +5,7 @@ lizz19@mails.tsinghua.edu.cn
 
 ### Profile
 
-Hi I'm Zhouzi Li, an undergraduate student in Yao class, Tsinghua University. I has 
+Hi I'm Zhouzi Li, an undergraduate student in Yao class, Tsinghua University. I have
 
 + Interests in machine learning theory and online algorithms.
 + Solid mathematical skills, manage to conduct basic theoretical inductions.
