@@ -16,11 +16,12 @@ Research Interests
 
 Education
 ======
-* IIIS, **Tsinghua University, Beijing**, from Aug. 2019 – Present
+* **IIIS, Tsinghua University, Beijing**, from Aug. 2019 – Present
 
-  *  Special CS Pilot Class (**Yao Class**, established by Turing Award Laureate, **Prof. Andrew Chi-Chih Yao**) 
-  * **Overall GPA 3.91/4.0 (7/30)**
-  * **GRE: 325** (Verbal: 155, Quantitative: 170, Writing: 3.5); **TOEFL: 109** (Speaking: 23, Reading: 30, Listening: 29, Writing: 27)
+  * Special CS Pilot Class (**Yao Class**, established by Turing Award Laureate, **Prof. Andrew Chi-Chih Yao**) 
+  
+  *  **Overall GPA 3.91/4.0 (7/30)**
+  *  **GRE: 325** (Verbal: 155, Quantitative: 170, Writing: 3.5); **TOEFL: 109** (Speaking: 23, Reading: 30, Listening: 29, Writing: 27)
 * **Department of Computer Science, Carnegie Mellon University, Pittsburgh**, from March 2022 - Aug. 2022
   * Undergraduate Visiting Research Intern; Supervised by **Prof. Anupam Gupta**
 
@@ -63,13 +64,14 @@ Talks
 
 Leadership
 ======
-* President of Yao Class (Yao 91). <p align = "right"> 9. 2019 – 9.2020</p>
+* President of Yao Class (Yao 91). *Sep. 2019 – Sep.2020*
   * won the highest award for classes in Tsinghua University.
+
   * won the highest award for student leaders in Tsinghua University.
 
-* Member of Study and Research Department,  IIIS's students' union. <p align = "right"> 3. 2021 – present</p>
+* Member of Study and Research Department,  IIIS's students' union. *Mar. 2021 – Present*
   * organized seminars in the direction of theoretical computer science.
 
-* Captain of IIIS's basketball team.  <p align = "right"> 9. 2020 -- 2.2022</p>
+* Captain of IIIS's basketball team. *Sep. 2020 - Feb.2022*
 
-* Manager of IIIS's basketball club. <p align = "right"> 2. 2021 -- 2.2022</p>
+* Manager of IIIS's basketball club. *Feb. 2021 - Feb.2022*
