@@ -5,7 +5,7 @@ permalink: /publication/Analyzing-Sharpness-Along-GD
 excerpt: ''
 date: 2022-9-21
 venue: 'NeurIPS 2022'
-paperurl: 'http://Li-Zhouzi.github.io/files/analyzing_sharpness_along_gd_t.pdf'
+paperurl: [1]'http://Li-Zhouzi.github.io/files/analyzing_sharpness_along_gd_t.pdf'
 citation: 'Li, Z., Wang, Z., & Li, J. (2022). Analyzing sharpness along gd trajectory: Progressive sharpening and edge of stability. arXiv preprint arXiv:2207.12678.'
 ---
 Zhouzi Li$^*$, **Zixuan Wang$^*$**, Jian Li. (Accepted by NeurIPS 2022)
