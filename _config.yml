@@ -11,7 +11,7 @@ title                    : "Zhouzi Li's Home"
 title_separator          : "-"
 name                     : &name "Zhouzi Li"
 description              : &description "I am currently an undergraduate student in IIIS, Tsinghua University. "
-url                      : arthurli.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.arthurli.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : https://Li-Zhouzi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Li-Zhouzi/academicpages.github.io"
