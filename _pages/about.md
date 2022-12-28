@@ -17,4 +17,5 @@ I am Zhouzi Li (李洲子 in Chinese, <a href="https://drive.google.com/file/d/1
 
 ### My CV
 
-You can download my <a href=https://drive.google.com/file/d/1BioQSu0ODgh-VYPREeDqS_QgNxeplN0a/view?usp=share_link>CV</a> here.
+You can download my [CV](https://drive.google.com/file/d/1BioQSu0ODgh-VYPREeDqS_QgNxeplN0a/view?usp=share_link) here.
+<!-- <b href=>CV</b> here. -->
