@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Graph-Searching-with-Predictions
 excerpt: ''
 venue: "ITCS 2023"
-date: 2022-9
+date: 
 paperurl: 'http://Li-Zhouzi/files/Graph-Searching-with-Predictions'
 citation: 'Banerjee, S. Cohen-Addad, V., Gupta, A., Li, Z. (2022). Graph Searching with Predictions.'
 ---
