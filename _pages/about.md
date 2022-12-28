@@ -10,6 +10,10 @@ redirect_from:
 
 I am Zhouzi Li (李洲子 in Chinese, <a href="https://drive.google.com/file/d/1-PQMSZ0yWY1qNoNEiM1hRIxcN_zmG3My/view?usp=share_link">How to pronounce</a>), and I also go by Arthur. I am currently a senior major in computer science at Yao Class, Tsinghua University. I am broadly interested in **theoretical computer science**, especially **algorithm design and learning theory**.
 
+### Currently I am working on:
+- Online Graph Searching with Advice
+
+
 ### Education
 
 - An undergraduate in **"Yao class"**, a special CS pilot class established by Turing Award Laureate, **Prof. Andrew Chi-Chih Yao.**
