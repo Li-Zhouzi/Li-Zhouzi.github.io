@@ -12,7 +12,7 @@ redirect_from:
 Research Interests
 ======
 * Broad interests in theoretical computer science.
-* Research experiences and publications in **deep learning theory and online algorithm design**.}
+* Research experiences and publications in **deep learning theory and online algorithm design**.
 
 Education
 ======
