@@ -17,7 +17,7 @@ I am Zhouzi Li (李洲子 in Chinese, <a href="https://drive.google.com/file/d/1
 
 ### Education
 - PhD in Computer Science Department, Carnegie Mellon University.
-- An undergraduate in **"Yao class"**, a special CS pilot class established by Turing Award Laureate, **Prof. Andrew Chi-Chih Yao.**
+- Undergraduate in **"Yao class"**, a special CS pilot class established by Turing Award Laureate, **Prof. Andrew Chi-Chih Yao.**
 
 ### My CV
 
