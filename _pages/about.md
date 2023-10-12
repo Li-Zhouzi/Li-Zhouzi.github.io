@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhouzi Li (李洲子 in Chinese, <a href="https://drive.google.com/file/d/1-PQMSZ0yWY1qNoNEiM1hRIxcN_zmG3My/view?usp=share_link">How to pronounce</a>), and I also go by Arthur. I am currently a first-year PhD in CSD at CMU, coadviced by Anupam Gupta and Mor Harchol-Balter. I am broadly interested in **theoretical computer science**, especially **queueing theory and online algorithm design**.
+I am Zhouzi Li (李洲子 in Chinese, <a href="https://drive.google.com/file/d/1-PQMSZ0yWY1qNoNEiM1hRIxcN_zmG3My/view?usp=share_link">How to pronounce</a>), and I also go by Arthur. I am currently a first-year PhD in CSD at CMU, coadvised by Anupam Gupta and Mor Harchol-Balter. I am broadly interested in **theoretical computer science**, especially **queueing theory and online algorithm design**.
+
+Out of research, I enjoy playing basketball and tennis. I am also a great fan of music, playing fingerstyle guitar.
 
 ### Currently I am working on:
 - Online Graph Searching with Advice
