@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhouzi Li's Home"
 title_separator          : "-"
 name                     : &name "Zhouzi Li"
-description              : &description "I am currently an undergraduate student in IIIS, Tsinghua University. "
+description              : &description "I am currently first-year PhD in Computer Science Department at Carnegie Mellon University. "
 # url                      : https://www.arthurli.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://Li-Zhouzi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
