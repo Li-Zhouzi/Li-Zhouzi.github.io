@@ -16,7 +16,7 @@ Out of research, I enjoy playing basketball and tennis. I am also a great fan of
 ### Currently I am working on:
 - Hybrid Priority Queueing theory 
 - Scheduling Parallelizable Jobs with Budget
-- Online Graph Searching with Advice 
+- Online Graph Searching with Advice  
 
 
 ### Education
