@@ -11,12 +11,12 @@ redirect_from:
 I am Zhouzi Li (李洲子 in Chinese, <a href="https://drive.google.com/file/d/1-PQMSZ0yWY1qNoNEiM1hRIxcN_zmG3My/view?usp=share_link">How to pronounce</a>), and I also go by Arthur. I am currently a second-year PhD in CSD at CMU advised by Prof. Mor Harchol-Balter, working on **queueing theory**. I am also interested in scheduling problems in machine learning jobs training and LLM requests serving.
 
 
-Out of research, I enjoy playing basketball and tennis. I am also a great fan of music, playing fingerstyle guitar.
+Out of research, I enjoy playing basketball and tennis. I am also a great fan of music, playing guitar.
 
 ### Currently I am working on:
-- Hybrid Priority Queueing theory 
-- Scheduling Parallelizable Jobs with Budget
-- Online Graph Searching with Advice  
+- Scheduling Jobs with Convex Holding Costs
+- Scheduling Machine Learning Jobs with Budget
+- Scheduling Parallelizable Jobs
 
 
 ### Education

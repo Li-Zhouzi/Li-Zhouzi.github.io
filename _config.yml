@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhouzi Li's Home"
 title_separator          : "-"
 name                     : &name "Zhouzi Li"
-description              : &description "I am currently first-year PhD in Computer Science Department at Carnegie Mellon University. "
+description              : &description "I am currently second-year PhD in Computer Science Department at Carnegie Mellon University. "
 # url                      : https://www.arthurli.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://Li-Zhouzi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Zhouzi Li"
   avatar           : "Zhouzi.jpg"
-  bio              : "I am currently a first-year PhD in CSD at CMU."
+  bio              : "I am currently a second-year PhD in CSD at CMU."
   location         : "Pittsburgh, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
