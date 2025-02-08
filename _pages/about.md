@@ -25,5 +25,5 @@ Out of research, I enjoy playing basketball and tennis. I am also a great fan of
 
 ### My CV
 
-You can download my [CV](https://drive.google.com/file/d/1BioQSu0ODgh-VYPREeDqS_QgNxeplN0a/view?usp=share_link) here.
+You can download my [CV](https://drive.google.com/file/d/1BioQSu0ODgh-VYPREeDqS_QgNxeplN0a/view?usp=sharing) here.
 <!-- <b href=>CV</b> here. -->
