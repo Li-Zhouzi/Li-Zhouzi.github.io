@@ -1,7 +1,7 @@
 ---
 title: "Graph Searching with Predictions"
 collection: publications
-permalink: /publication/Graph-Searching-with-Predictions
+permalink: /publications/Graph-Searching-with-Predictions
 excerpt: ''
 venue: "ITCS"
 date: "2023-2-1"
