@@ -1,7 +1,7 @@
 ---
 title: "How to Rent GPUs on a Budget"
 collection: publications
-permalink: /publication/How-to-Rent-GPUs-on-a-Budget
+permalink: /publications/How-to-Rent-GPUs-on-a-Budget
 excerpt: ''
 venue: "EPEW"
 date: "2024-6-1"

@@ -1,7 +1,7 @@
 ---
 title: "Analyzing Sharpness along GD Trajectory: Progressive Sharpening and Edge of Stability"
 collection: publications
-permalink: /publication/Analyzing-Sharpness-Along-GD
+permalink: /publications/Analyzing-Sharpness-Along-GD
 excerpt: ''
 date: '2022-9-23'
 venue: 'NeurIPS'
