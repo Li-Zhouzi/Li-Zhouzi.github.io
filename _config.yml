@@ -87,7 +87,7 @@ author:
   location         : "Pittsburgh, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?user=vNJDZyEAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?view_op=list_works&hl=en&user=66HGZ2cAAAAJ&gmla=AOv-ny-uSkxfMMhKwTF-AQgf1FlPvW-TzObFh_Zz4Itz4XvmDiO4LjG4Fxmt5xgT-n-h1TpQTlnjPbFkOkfuqLs_GofCcL2Qrfovw1JBN9wnsg
   email            : "zhouzi188763@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
