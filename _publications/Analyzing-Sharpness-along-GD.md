@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Sharpness along GD Trajectory: Progressive Sharpening and Edge of Stability"
+title: "Analyzing Sharpness along GD Trajectory: Progressive Sharpening and Edge of Stability2"
 collection: publications
 permalink: /publications/Analyzing-Sharpness-Along-GD
 excerpt: ''
