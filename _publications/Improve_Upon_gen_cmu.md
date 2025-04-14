@@ -3,10 +3,8 @@ title: "Improving Upon the generalized c-mu rule: a Whittle approach"
 collection: publications
 permalink: /publications/Whittle
 excerpt: ''
-venue: ""
 date: "2025-4-14"
 paperurl: 'http://Li-Zhouzi.github.io/files/Whittle.pdf'
-citation: ''
 ---
 **Zhouzi Li**, Keerthana Gurushankar, Mor Harchol-Balter, Alan Scheller-Wolf
 
