@@ -72,7 +72,7 @@ for row, item in publications.iterrows():
     
     md = "---\ntitle: \""   + item.title + '"\n'
     
-    md += """collection: publication"""
+    md += """collection: publications"""
     
     md += """\npermalink: /publication/""" + html_filename
     
