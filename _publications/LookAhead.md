@@ -3,9 +3,9 @@ title: "LookAhead: The Optimal Non-decreasing Index Policy for a Time-Varying Ho
 collection: publications
 permalink: /publications/LookAhead
 excerpt: ''
-paperurl: 'http://Li-Zhouzi.github.io/files/LookAhead.pdf'
+paperurl: 'http://Li-Zhouzi.github.io/files/Lookahead.pdf'
 ---
-Keerthana Gurushankar<sup>*</sup>, **Zhouzi Li**<sup>*</sup>, Mor Harchol-Balter, Alan Scheller-Wolf (<sup>*</sup>Equal contribution)
+Keerthana Gurushankar<sup>*</sup>, **Zhouzi Li**<sup>*</sup>, Mor Harchol-Balter, Alan Scheller-Wolf (<sup>*</sup><em>Equal contribution</em>)
 
 **Abstract:** In practice, the cost of delaying a job can grow as the job waits. Such behavior is modeled by the Time-Varying Holding Cost (TVHC) problem, where each job's instantaneous holding cost increases with its current age (a job's age is the time since it arrived). The goal of the TVHC problem is to find a scheduling policy that minimizes the time-average total holding cost across all jobs. 
 

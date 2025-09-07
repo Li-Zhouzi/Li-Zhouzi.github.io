@@ -1,10 +1,10 @@
 ---
-title: "Sample Current Project"
+title: "LLM Inference Jobs Scheduling"
 collection: projects
-permalink: /projects/sample-project
-excerpt: 'This is a sample project to demonstrate the Current Projects page structure.'
+permalink: /projects/LLM
+excerpt: ''
 status: 'In Progress'
-start_date: '2024-01-01'
+start_date: '2025-05'
 ---
 
 **Project Team:** Zhouzi Li, Collaborator Name
