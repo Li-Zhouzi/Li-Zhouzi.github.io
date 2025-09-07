@@ -1,8 +1,7 @@
-
 ---
 title: "LookAhead: The Optimal Non-decreasing Index Policy for a Time-Varying Holding Cost problem"
 collection: publications
-permalink: /publications/Whittle
+permalink: /publications/LookAhead
 excerpt: ''
 paperurl: 'http://Li-Zhouzi.github.io/files/LookAhead.pdf'
 ---
