@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Current Projects"
+permalink: /projects/
+author_profile: true
+---
+
+Here are the projects I'm currently working on:
+
+{% include base_path %}
+
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
