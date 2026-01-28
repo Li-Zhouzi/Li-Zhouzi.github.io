@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/LookAhead
 excerpt: ''
 venue: "Queueing System"
+date: 2026-01-01
 paperurl: 'http://Li-Zhouzi.github.io/files/lookahead-final.pdf'
 ---
 Keerthana Gurushankar<sup>*</sup>, **Zhouzi Li**<sup>*</sup>, Mor Harchol-Balter, Alan Scheller-Wolf (<sup>*</sup><em>Equal contribution</em>)

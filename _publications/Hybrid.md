@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/Hybrid
 excerpt: ''
 venue: "Queueing System"
+date: 2026-01-01
 paperurl: 'http://Li-Zhouzi.github.io/files/Hybrid-final.pdf'
 ---
 **Zhouzi Li**, Mor Harchol-Balter, Alan Scheller-Wolf
