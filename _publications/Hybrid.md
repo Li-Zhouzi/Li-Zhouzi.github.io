@@ -3,7 +3,8 @@ title: "When does Partial Priority Improve Revenue?"
 collection: publications
 permalink: /publications/Hybrid
 excerpt: ''
-paperurl: 'http://Li-Zhouzi.github.io/files/Hybrid.pdf'
+venue: "Queueing System"
+paperurl: 'http://Li-Zhouzi.github.io/files/Hybrid-final.pdf'
 ---
 **Zhouzi Li**, Mor Harchol-Balter, Alan Scheller-Wolf
 

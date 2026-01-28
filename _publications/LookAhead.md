@@ -3,7 +3,8 @@ title: "LookAhead: The Optimal Non-decreasing Index Policy for a Time-Varying Ho
 collection: publications
 permalink: /publications/LookAhead
 excerpt: ''
-paperurl: 'http://Li-Zhouzi.github.io/files/Lookahead.pdf'
+venue: "Queueing System"
+paperurl: 'http://Li-Zhouzi.github.io/files/lookahead-final.pdf'
 ---
 Keerthana Gurushankar<sup>*</sup>, **Zhouzi Li**<sup>*</sup>, Mor Harchol-Balter, Alan Scheller-Wolf (<sup>*</sup><em>Equal contribution</em>)
 
